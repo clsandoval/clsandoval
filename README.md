@@ -17,6 +17,9 @@ that keep them running in production.
   creator-marketing platform for US brands. i own the durable-execution layer on temporal,
   the cost and metering stack, the RAG reply-drafting pipeline and the evaluation around it,
   and the google CASA security certification.
+- **kosmas** (helios pickleball center, manila): picklesight, match replay and automatic
+  scoring for pickleball courts from fixed cameras. player tracking, serve and rally
+  detection, and a rally-by-rally review app for players.
 
 ## interests
 
